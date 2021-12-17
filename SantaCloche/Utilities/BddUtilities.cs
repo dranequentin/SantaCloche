@@ -1,4 +1,4 @@
-﻿using MySql.Data.MySqlClient;
+﻿
 using MySqlConnector;
 using System;
 using System.Collections.Generic;
@@ -13,13 +13,14 @@ namespace TP_GIT.Utilities
         public static MySqlConnection Connexion()
         {
             string host = "localhost"; // adresse du serveur sur lequel ouvrir la connexion
-            string databaseName = "lyceegit"; // Nom de la base de données
-            string user = "Manu"; // nom de l'utilisateur de la base de données
+            string databaseName = "santacloche"; // Nom de la base de données
+            string user = "Nicolas"; // nom de l'utilisateur de la base de données
             string password = "toto"; // mot de passe de l'utilisateur
             int port = 3307; // numéro de port utilisé par le serveur de base de données
 
             // Ajout des paramètres de connexion
-            MySqlConnection connexion = new MySqlConnection("server=" + host + ";database=" + databaseName + ";port=" + port + ";user=" + user + ";password=" + password + ";SSL Mode=None");
+            MySqlConnection connexion = new MySqlConnection("server=" + host + ";database=" + databaseName +
+                ";port=" + port + ";user=" + user + ";password=" + password + ";SSL Mode=None");
             return connexion;
         }
         public static MySqlConnection OuvrirConnexion()

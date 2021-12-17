@@ -14,7 +14,7 @@ namespace SantaCloche.Entity
         /// <summary>
         /// Récupère et attribue l'id de l'objet client 
         /// </summary>
-        public int IdEnseignant { get => idClient; set => idClient = value; }
+        public int IdClient { get => idClient; set => idClient = value; }
         public string Nom { get => nom; set => nom = value; }
         /// <summary>
         /// Récupère et attribue le prenom de l'objet client 
