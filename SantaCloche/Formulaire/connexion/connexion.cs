@@ -14,5 +14,10 @@ namespace SantaCloche.Formulaire.connexion
         {
             InitializeComponent();
         }
+
+        private void btn_login_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
