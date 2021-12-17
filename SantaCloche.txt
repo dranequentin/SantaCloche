@@ -1,0 +1,15 @@
+Nicolas de la Banque Santa Cloche
+Application local pour gerer des comptes clients
+toutes transaction réaliser par les clients passe par la banque ne premier mais ils ont des gros tableurs inbuvable
+selectionner le compte choisir la somme 
+faire le calcule pour retirer de mr dupond et ajouter a l'autre
+2 traitement pour une meme action
+Jeune banque
+Tous les comptes des clients affiche en claire toutes les informations 
+Application c# dont l'objectif est de simplifier les transaction
+Se connecter sur le logiciel login mdp 
+acces a tous les comptes des cleints pour réaliser les transactions des cliens le plus simple et sécuriser
+Un client peut avoir plusieurs compte 
+un compte a plusieur type 
+livret a compte courant compte check compte cloche etc
+chaque type de compte a des taux d'interet diff ajouter a chaque années
