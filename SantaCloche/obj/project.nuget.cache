@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jHCnkDrYAkAaCnUAAR5oD2V9qKyTQKS7P55YgbkhomQiy1iyp/u/GWQtGmQjGGJBb7bWACEwvd2Ipbhsq3L0LA==",
+  "dgSpecHash": "O7EQNn0ozRpIEIOlJqil5xt7l35784qHBVUqqVZFEfJajDCqf3rW/qw37AOaJCmP+duCDAYJy7QnoyuHLkleIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Quentin\\Desktop\\SantaCloche\\SantaCloche\\SantaCloche\\SantaCloche.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Quentin\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
+    "C:\\Users\\Quentin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
